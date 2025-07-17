@@ -17,12 +17,12 @@ body {
         width: 50px;
         height: 50px;
         border-radius: 15px 15px 15px 15px;
-        left: 550px;
+        left: 350px;
         top: 80px;
 }
 .input-field5{
         position: relative;
-        left: 565px;
+        left: 365px;
         top: 60px;
         padding: 10px;
         font-size: 16px;
@@ -31,7 +31,7 @@ body {
 }
 .einput{
        position: relative;
-       left: 630px;
+       left: 430px;
        bottom: 15px;
        font-size: 19px;
 }
@@ -40,12 +40,12 @@ body {
         width: 50px;
         height: 50px;
         border-radius: 15px 15px 15px 15px;
-        left: 550px;
+        left: 350px;
         top: 80px;
 }
 .input-field6 {
         position: relative;
-        left: 570px;
+        left: 370px;
         padding: 10px;
         font-size: 16px;
         height: 10px;
@@ -54,7 +54,7 @@ body {
 }
 .linput{
         position: relative;
-        left: 630px;
+        left: 430px;
         bottom: 15px;
         font-size: 19px;
 }
@@ -63,12 +63,12 @@ body {
         width: 50px;
         height: 50px;
         border-radius: 15px 15px 15px 15px;
-        left: 550px;
+        left: 350px;
         top: 80px;
 }
 .input-field7{
         position: relative;
-        left: 570px;
+        left: 370px;
         padding: 10px;
         font-size: 16px;
         height: 10px;
@@ -77,7 +77,7 @@ body {
 }
 .cinput{
         position: relative;
-        left: 630px;
+        left: 430px;
         bottom: 15px;
         font-size: 19px;
 }
@@ -87,8 +87,8 @@ body {
         border-radius: 15px;
         background-color: blue;
         position: relative;
-        left: 350px;
-        top: 50px;
+        left: 300px;
+        top: 70px;
 }
 .submit{
         height: 50px;
@@ -96,19 +96,19 @@ body {
         border-radius: 15px;
         background-color: blue;
         position: relative;
-        left: 850px;
-        top: 50px;
+        left: 600px;
+        top: 70px;
         color: white;
 }
 .check{
         transform: scale(2);
         position: relative;
-        left:560px;
+        left:360px;
         top: 35px;
 }
 .checkbox{
         position: relative;
-        left: 630px;
-        bottom: 5px;
+        left: 410px;
         font-size: 19px;
+        top: 32px;
 }
