@@ -1,0 +1,114 @@
+.logo {
+        width: 1600px;
+        height: 100px;
+        border-radius: 15px 15px 15px 15px;
+}
+
+body {
+        background-color: rgb(177, 191, 233);
+}
+
+.name {
+        font-size: 40px;
+        color: blue;
+}
+.email{
+        position: relative;
+        width: 50px;
+        height: 50px;
+        border-radius: 15px 15px 15px 15px;
+        left: 550px;
+        top: 80px;
+}
+.input-field5{
+        position: relative;
+        left: 565px;
+        top: 60px;
+        padding: 10px;
+        font-size: 16px;
+        height: 10px;
+        border-radius: 10px;
+}
+.einput{
+       position: relative;
+       left: 630px;
+       bottom: 15px;
+       font-size: 19px;
+}
+.leetcode{
+        position: relative;
+        width: 50px;
+        height: 50px;
+        border-radius: 15px 15px 15px 15px;
+        left: 550px;
+        top: 80px;
+}
+.input-field6 {
+        position: relative;
+        left: 570px;
+        padding: 10px;
+        font-size: 16px;
+        height: 10px;
+        top: 68px;
+        border-radius: 10px;
+}
+.linput{
+        position: relative;
+        left: 630px;
+        bottom: 15px;
+        font-size: 19px;
+}
+.codeforce{
+        position: relative;
+        width: 50px;
+        height: 50px;
+        border-radius: 15px 15px 15px 15px;
+        left: 550px;
+        top: 80px;
+}
+.input-field7{
+        position: relative;
+        left: 570px;
+        padding: 10px;
+        font-size: 16px;
+        height: 10px;
+        top: 68px;
+        border-radius: 10px;
+}
+.cinput{
+        position: relative;
+        left: 630px;
+        bottom: 15px;
+        font-size: 19px;
+}
+.previous{
+        height: 50px;
+        width: 100px;
+        border-radius: 15px;
+        background-color: blue;
+        position: relative;
+        left: 350px;
+        top: 50px;
+}
+.submit{
+        height: 50px;
+        width: 100px;
+        border-radius: 15px;
+        background-color: blue;
+        position: relative;
+        left: 850px;
+        top: 50px;
+        color: white;
+}
+.check{
+        transform: scale(2);
+        position: relative;
+        left:560px;
+        top: 35px;
+}
+.checkbox{
+        position: relative;
+        left: 630px;
+        bottom: 5px;
+        font-size: 19px;
+}
